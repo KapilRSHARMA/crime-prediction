@@ -1,0 +1,8 @@
+# Ignore big models
+rf.pkl
+cnn.pkl
+dnn.pkl
+cnn_*
+*.csv
+
+__pycache__/
